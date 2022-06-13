@@ -100,7 +100,7 @@ No data collected
 7.0 and up
 
 <h3 align="left">Downloads</h3>
-500+ downloads
+1K+ downloads
 
 <h3 align="left">Content rating</h3>
 Rated for 12+ • Parental guidance recommended.
