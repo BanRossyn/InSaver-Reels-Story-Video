@@ -4,10 +4,12 @@
   
   <h3>InSaver helps you save Video, Photo, Storys, reels and Highlight from Instagram</h3>
 
-   <h3 align="Right">V1.12.6.1</h3>
+   <h3 align="Right">V1.14.6.21</h3>
    
    # What's new:
-    ✪ Fixed the issue where the post page loaded more and failed.
+    💫User Friendly Update, Fast Loading.
+    🌟 Font Size Problem solved.
+    💣 Fixed the issue where the post page loaded more and failed.
     ⬇️ Download Photos and Videos from Instagram.
     🌟 Get all post of user.
     📽 Get IGTV videos and watch them directly.
@@ -91,10 +93,10 @@ No data collected
 
   
 <h3 align="left">Updated on</h3>
-Jun 1, 2022 
+21 Jun 2022
 
 <h3 align="left">Version</h3>
-1.12.6.1
+1.14.6.21
 
 <h3 align="left">Requires Android</h3>
 7.0 and up
